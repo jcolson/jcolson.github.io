@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/jaycolson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcolson.github.io
+  * I am jaycolson (https://keybase.io/jaycolson) on keybase.
+  * I have a public key ASC4IMoYDE7tE2McCo3biHugA6cCLLttzB6v6AN2FaMOnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200cf33aa335d8ad45a1fb15daa6d733ff3405ba693ca67e94b4e4fc12d02173200a",
+      "host": "keybase.io",
+      "kid": "0120b820ca180c4eed13631c0a8ddb887ba003a7022cbb6dcc1eafe8037615a30e9f0a",
+      "uid": "4c2213b8728deb1e11177aad6ec84819",
+      "username": "jaycolson"
+    },
+    "merkle_root": {
+      "ctime": 1581498309,
+      "hash": "ba23f83698287bcdde1ee79800a22bdd6e8e96b634b7295e2ac387944f320680559d6cc837997ee2d6b792823127b57005d55fd4a92520a021088e79fb8458e7",
+      "hash_meta": "3277552393928f0f430b4926518a6c2ecdf98bb1e4290de333a5d34d53fc4542",
+      "seqno": 14577171
+    },
+    "service": {
+      "entropy": "Tf7BJqfVs8lPOepTC3tX2kEp",
+      "hostname": "jcolson.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581498331,
+  "expire_in": 504576000,
+  "prev": "9de1aae2d99429cbf92d6353a7284da4d69604222acf705b01f1f62a97abf087",
+  "seqno": 105,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguCDKGAxO7RNjHAqN24h7oAOnAiy7bcwer+gDdhWjDp8Kp3BheWxvYWTESpcCacQgneGq4tmUKcv5LWNTpyhNpNaWBCIqz3BbAfH2Kper8IfEINmdkQCEfIBj6vfMsTPOtgAwebnAESBwH1tgCLvha3SNAgHCo3NpZ8RA3SrAGjP5H1/qzGZoW4Dq34t48n3vpXHnmT/r5SB3GPYexcFT1FEuPYIm4PhQZaznKRzhxBnzxyBQczntQTcJCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILWH55fS0hJJTF1urmo0emlWj9CKdk/SPXcIo2x/ZcNro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaycolson
+
+==================================================================
+
