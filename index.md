@@ -1,11 +1,11 @@
 <head>
-<title>Jay Colson</title>
+  <title>Jay Colson</title>
 </head>
 
-# jaycolson's public keybase space
+# Jay Colson's public space
 
-nothing too exciting here.
+There is nothing too exciting here.
 
-[Go Here Instead](https://karma.net)
+[Go Here Instead - karma.net](https://www.karma.net)
 
-
+[Or Here, for identity proof](https://keybase.io/jaycolson)
