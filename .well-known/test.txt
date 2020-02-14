@@ -1,1 +1,4 @@
+layout: none
+permalink: .well-known/foo.txt
+
 test
