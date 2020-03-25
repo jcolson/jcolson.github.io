@@ -1,11 +1,6 @@
-<head>
-  <title>🅙🅐🅨 🅒🅞🅛🅢🅞🅝</title>
-</head>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# Jay Colson's public space
-
-There is nothing too exciting here.
-
-[Go Here Instead - karma.net](https://www.karma.net)
-
-[Or Here, for identity proof](https://keybase.io/jaycolson)
+layout: home
+---
