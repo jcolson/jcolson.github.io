@@ -4,7 +4,7 @@
 
 layout: default
 ---
-# CancerFit - (yeah, that's a play on CrossFit)
+## CancerFit - (yeah, that's a play on CrossFit)
 <p>I was diagnosed with pancreas cancer (Distal Cholangiocarcinoma to be exact) on August 23rd, 2018.  I had the Whipple procedure 
 to remove the tumor and nodes affected on September 11th, 2018.  At this time (November 2018 until ?) I'm going through Folferinox 
 chemotherapy treatments.</p>
