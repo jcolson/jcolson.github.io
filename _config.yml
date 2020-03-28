@@ -21,14 +21,14 @@
 title: Karma - Fitness and Health
 email: jay@karma.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Diagnosed with pancreas cancer (Distal Cholangiocarcinoma to be exact) on August 23rd, 2018. 
-  I had the <a href="/2018/09/12/surgery-complete">Whipple</a> procedure to remove the tumor and nodes affected on September 11th, 2018. 
-  Kickin' Pancreas cancer in the dick ever since.
+  Kickin' Pancreas cancer in the dick every day.
 permalink: :year/:month/:day/:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jcolson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jcolson
 github_username:  jcolson
+show_downloads: false
+google_analytics:
 
 # Build settings
 theme: jekyll-theme-leap-day
