@@ -31,7 +31,7 @@ twitter_username: jcolson
 github_username:  jcolson
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-leap-day
 plugins:
     - jekyll-feed
 
