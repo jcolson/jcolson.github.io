@@ -17,8 +17,10 @@ date: '2018-08-25 23:17:49 +0100'
 date_gmt: '2018-08-26 03:17:49 +0100'
 ---
 
-<p class="has-drop-cap">Recently being diagnosed with pancreas cancer, I had the desire to coerce my family into wearing silly clothing symbolizing the fight that exists in our <strong>team</strong>. This design is just geeky enough to make the cut. Binary on the back (with ascii translation in the far right column) and a human readable F-CANCER on the front. Sharing here purely for the fun of it.</p>
-
+<p class="has-drop-cap">Recently being diagnosed with pancreas cancer, I had the desire to coerce my family into 
+wearing silly clothing symbolizing the fight that exists in our <strong>team</strong>. This design is just geeky 
+enough to make the cut. Binary on the back (with ascii translation in the far right column) and a human readable 
+F-CANCER on the front. Sharing here purely for the fun of it.</p>
 
 <div id="myShop">
     <a href="https://shop.spreadshirt.com/karmanet">karmanet</a>
