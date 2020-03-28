@@ -1,9 +1,9 @@
 ruby -r rubygems -e 'require "jekyll-import";
     JekyllImport::Importers::WordPress.run({
       "dbname"         => "karmawp",
-      "user"           => "karma_wp",
-      "password"       => "r0ckyh0rr0r",
-      "host"           => "localhost",
+      "user"           => "karma-wp",
+      "password"       => "x",
+      "host"           => "127.0.0.1",
       "port"           => "3306",
       "socket"         => "",
       "table_prefix"   => "wp_",
