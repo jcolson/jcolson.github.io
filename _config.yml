@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Karma - Fitness and Health
+title: Karma|Fit and Healthy
 email: jay@karma.net
 description: >- # this means to ignore newlines until "baseurl:"
   Kickin' Pancreas cancer in the dick every day.
 permalink: :year/:month/:day/:title
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jcolson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://karma.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jcolson
 github_username:  jcolson
 show_downloads: false
