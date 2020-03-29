@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!-- http://instafeedjs.com/#standard -->
+    <script type="text/javascript" src="/assets/js/instafeed.min.js"></script>
+    <script type="text/javascript">
+        var feed = new Instafeed({
+            get: 'user',
+            userId: '3464726883',
+            accessToken: '3464726883.54da896.c10885895efe4f3799c1a637a824549c'
+        });
+        feed.run();
+    </script>
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
@@ -50,7 +60,8 @@
       </nav>
       <section>
         {{ content }}
-
+        <h1>Instagram Feed</h1>
+        <div id="instafeed"></div>
       </section>
       <footer>
         {% if site.github.is_project_page %}
