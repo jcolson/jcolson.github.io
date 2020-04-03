@@ -36,7 +36,8 @@ verything from Java, Android, shell scripting, Objective C, Swift, Python and PH
 ## Miscellaneous Development
 
 ### Geoloc - microservice
-[Geoloc](https://github.com/jcolson/geoloc){:target="_blank"} - Microservice for returning the reverse geocode information for a Point
+[Geoloc](https://github.com/jcolson/geoloc){:target="_blank"} - Microservice for returning the reverse geocode information for a Point.
+This service is deployable as a docker container and by default uses the geojson data from (Whos On First)[https://www.whosonfirst.org/].
 
 ### Helpfull Shell Scripts
 [Helpful Shell Scripts](https://git.sr.ht/~jcolson/random-scripts){:target="_blank"} - This repo just has a few helpful bash scripts such as a script that geo-locates you and updates your slack status based on location.  There's a script that displays colorcoded timezone information in your terminal.  A script that helps you test bandwidth between two machines.  etc, etc ....
