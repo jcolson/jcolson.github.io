@@ -3,8 +3,8 @@ layout: default
 ---
 {%- assign date_format = "%b %-d, %Y" -%}
 
-<h1> {{ page.title | escape }} - {{ page.date | date: date_format }} </h1>
-
+<h1> {{ page.title | escape }}</h1>
+<h4>{{ page.date | date: date_format }}</h4>
 {{ content }}
 
 <!-- <h2> <a href="../..">Back</a> </h2> -->
