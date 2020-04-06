@@ -29,6 +29,7 @@ twitter_username: jcolson
 github_username:  jcolson
 show_downloads: false
 google_analytics:
+show_excerpts: false
 
 # Build settings
 theme: jekyll-theme-leap-day

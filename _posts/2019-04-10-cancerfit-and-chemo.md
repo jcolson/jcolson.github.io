@@ -6,8 +6,6 @@ author:
   display_name: Jay
 date: 'Apr 10, 2019 20:58:26 AM GMT+1'
 ---
-# My Chemotherapy Schedule and CancerFit
-
 *(yeah, that's a play on CrossFit)*
 <p>I was diagnosed with pancreas cancer (Distal Cholangiocarcinoma to be exact) on August 23rd, 2018.  I had the Whipple procedure 
 to remove the tumor and nodes affected on September 11th, 2018.  At this time (November 2018 until ?) I'm going through Folferinox 
@@ -25,18 +23,20 @@ that I'll be executing (post Whipple surgery &amp; during FOLFIRINOX chemotherap
 </ol>
 
 ## My Chemotherapy tracker
-<p class="has-text-color has-very-dark-gray-color"> <span style="color: #0000ff;">[1] (2018/11/2)</span>   - &#x2714;<br> 
-    <span style="color: #0000ff;">[2] (2018/11/21)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[3] (2018/12/05)</span>  - &#x2714;<br> 
-    <span style="color: #0000ff;">[4] (2018/12/19)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[5] (2019/01/02)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[6] (2019/01/16)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[7] (2019/01/30)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[8] (2019/02/13)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[9] (2019/02/27)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[10] (2019/03/13)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[11] (2019/03/27)</span> - &#x2714;<br> 
-    <span style="color: #0000ff;">[12] (2019/04/10)</span> - &#x2714;<br> 
-</p>
 
-<p>Stay Healthy Everyone!</p>
+| Num | Date | Complete |
+|-----|------|----------|
+|<span style="color: #0000ff;">1</span>      | 2018/11/2 | &#x2714;|
+|<span style="color: #0000ff;">2</span>      | 2018/11/21| &#x2714;|
+|<span style="color: #0000ff;">3</span>      | 2018/12/05| &#x2714;|
+|<span style="color: #0000ff;">4</span>      | 2018/12/19| &#x2714;|
+|<span style="color: #0000ff;">5</span>      | 2019/01/02| &#x2714;|
+|<span style="color: #0000ff;">6</span>      | 2019/01/16| &#x2714;|
+|<span style="color: #0000ff;">7</span>      | 2019/01/30| &#x2714;|
+|<span style="color: #0000ff;">8</span>      | 2019/02/13| &#x2714;|
+|<span style="color: #0000ff;">9</span>      | 2019/02/27| &#x2714;|
+|<span style="color: #0000ff;">10</span>     | 2019/03/13| &#x2714;|
+|<span style="color: #0000ff;">11</span>     | 2019/03/27| &#x2714;|
+|<span style="color: #0000ff;">12</span>     | 2019/04/10| &#x2714;|
+
+***Stay Healthy Everyone!***
