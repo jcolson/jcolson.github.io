@@ -30,7 +30,7 @@ This service is deployable as a docker container and by default uses the geojson
 [Helpful Shell Scripts](https://git.sr.ht/~jcolson/random-scripts){:target="_blank"} - [Bash]{:target="_blank"}(mostly) - This repo just has a few helpful bash scripts such as a script that geo-locates you and updates your slack status based on location.  There's a script that displays colorcoded timezone information in your terminal.  A script that helps you test bandwidth between two machines.  etc, etc ....
 
 ### iloss-ical-gen
-[iloss-ical-gen](https://github.com/jcolson/loss-ical-gen){:target="_blank"} - [PHP]{:target="_blank"} - The purpose of the application is to provide an ICS calendar of projected weight loss. The user can recreate the calendar anytime by visiting the page to get a new url or just manipulating the url parameters to values of his/her choosing.
+[iloss-ical-gen](https://github.com/jcolson/loss-ical-gen){:target="_blank"} - [PHP]{:target="_blank"} - The purpose of the application is to provide an ICS calendar of projected weight loss. The user can recreate the calendar anytime by visiting the page to get a new url or just manipulating the url parameters to values of his/her choosing.  [Use it here.](http://track.karma.net/){:target="_blank"}
 
 ### Exchange Rate Alfred workflow
 [Exchange Rate Alfred workflow](https://github.com/jcolson/Exchange-Rate-alfredworkflow){:target="_blank"} - [Python]{:target="_blank"} - This workflow enables you to check exchange rates in Alfred (Mac automation tool) quickly by keying in: "exr" in the Alfred window.
