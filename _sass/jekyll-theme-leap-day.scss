@@ -273,7 +273,6 @@ header {
 section {
 //   width: 590px;
   width: 645px;
-  height: 200% !important;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -445,6 +444,7 @@ footer {
   }
 
   section {
+    // height: auto !important;
     margin-top: 130px;
     margin-bottom: 0px;
     width: auto;
