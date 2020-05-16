@@ -18,5 +18,5 @@ Over time I've standardized on keeping a "personal source" directory under my us
 
 Every once in a while you'll get revisions that will need to be merged, but it makes it SO much easier (and very well known when it happens) than trying to do the same via a simple file sharing service.
 
-## Uodate
+## Update 2020-05-16
 I have sense moved away from keybase and started using a nano instance at AWS (free tier!).  Take a look at [git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) to encrypt your git repoaitory and push it via rsync to a remote ssh host.
