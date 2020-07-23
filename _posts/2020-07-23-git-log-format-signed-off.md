@@ -1,0 +1,19 @@
+---
+layout: post
+categories: [blog, tech]
+title: A "pretty" custom git log format that includes info on gpg and "signed-off-by"
+author:
+  display_name: Jay
+date: 'Jul 23, 2020'
+---
+![example output](../assets/git-log-format.png "Example git log output")
+
+Add the below to your `~/.gitconfig` and you'll have the nice beautiful output above for any `git lg` that you run in a
+git repo's directory.  The output is:
+
+`tree` `git hash` `when committed` `committer name` `Signed-off-by trailer ...` `gpg trusted/untrusted/not signed/etc` `gpg signature key` `commit message` `refspec(tags/branches/etc)`
+```
+[alias]
+        lg = log --color --graph --pretty=format:'%Cred%h%Creset %Cgreen(%<(6,trunc)%cr) %C(bold blue)%<(14,trunc)%an %Creset%Cblue%<(3,trunc)%(trailers:key=Signed-off-by,separator=%x2C)%Creset%Cred%Cblue%G?%Cred%<(16,trunc)%GK%Creset %s%C(yellow)%d' --abbrev-commit --branches
+
+```
