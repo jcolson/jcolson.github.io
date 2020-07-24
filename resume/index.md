@@ -1,5 +1,5 @@
 ---
-layout: default_no_insta
+layout: default
 title: Jay Colson Resume
 author:
   display_name: Jay
