@@ -54,9 +54,13 @@ This service is deployable as a docker container and by default uses the geojson
 [Android Play Watch App](https://play.google.com/store/apps/details?id=net.karma.crossfitthreefold){:target="_blank"} - [Java]{:target="_blank"}
 
 ## Crossfit 353
+The Crossfit 353 Garmin Watch Application displays the workout of the day (WOD) from Crossfit 353's schedule.
 [Garmin Watch App](https://apps.garmin.com/en-US/apps/92d3290d-d7ce-44a2-9f65-a7523e3a3c99){:target="_blank"} - [Monkey C]{:target="_blank"}
 
+The Crossfit 353 Alexa skill enables an Alexa device to respond to questions in regards to Crossfit 353's WOD.
 [Alexa Skill](https://www.amazon.com/Jay-Colson-Crossfit-353-WOD/dp/B0779KZPSH/ref=sr_1_2?ie=UTF8&amp;qid=1543517395&amp;sr=8-2){:target="_blank"}
+
+Checkout the video if it in action here.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4oePRnCJe_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
