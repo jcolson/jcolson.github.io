@@ -18,7 +18,7 @@ So let's review a few common software products.
 
 * Microsoft Office - this is an extremely common B2C or B3B software product.  Microsoft develops Office as a product.  They sell both directly to consumers as well as to other businesses.  Office has a standard release cadence, as well as a roadmap that is shared.  Office allows for many customizations to it's suite, and Microsoft has a very large professional services arm that can be engaged to do customizations (of enterprise installs, custom integrations, etc).
 
-* MS Office 365 - another very common product offering from Microsoft.  One of the most apparent professional services opportunities for O365 is migrations (from internally hosted exchange, or from other enterprise offerings).  There are also other intergrations (such as above w/Office) that could be contracted for separately (outside of the actual product licensing).
+* MS Office 365 - another very common product offering from Microsoft.  One of the most apparent professional services opportunities for O365 is migrations (from internally hosted exchange, or from other enterprise offerings).  There are also other integrations (such as above w/Office) that could be contracted for separately (outside of the actual product licensing).
 
 Take notice that for both of the above examples, professional services doesn't actually change the core product.  The scope for professional services is simply for "bolting on" additional functionality, configuration or wholesale migration services.
 
