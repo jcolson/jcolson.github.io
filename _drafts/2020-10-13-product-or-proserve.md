@@ -4,7 +4,7 @@ categories: [blog, tech]
 title: Software Product vs Professional Services
 author:
   display_name: Jay
-date: 'Oct 13, 2020'
+date: 'Oct ??, 2020'
 ---
 Software development professional services is a very large industry today, consisting of more than $20 billion in revenue.  There is no shame in developing a business that is primarily focused on professional services over developing a software "product".  There are a lot more niche' businesses than not in the world which require custom applications and support to solve specific business challenges over an 'out of the box' product solution which tries to solve many problems through 'configuration'.  That being said, it's also very common for a company to offer **both** products and services.
 
