@@ -6,6 +6,7 @@ author:
   display_name: Jay
 date: 'Oct 29, 2020'
 ---
+
 Software development professional services is a very large industry today, consisting of more than $20 billion in revenue.  There is no shame in developing a business that is primarily focused on professional services over developing a software "product".  There are a lot more niche' businesses than not in the world which require custom applications and support to solve specific business challenges over an 'out of the box' product solution which tries to solve many problems through 'configuration'.  That being said, it's also very common for a company to offer **both** products and services.
 
 As for me, I've been in the software development industry for a long-ish time.  Not to give away my age or anything, but I was writing software on a Commodore PET at the age of six.  I've also worked for some great companies over the years, writing custom software solutions, as well as software products.
