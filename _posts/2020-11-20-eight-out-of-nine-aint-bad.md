@@ -13,7 +13,7 @@ I didn't mention it in my last update, but the first few chemotherapy infusions 
 
 Holy smoke!  What a difference!
 
-After getting the port, each treatment since the fourth has gotten a bit easier to tolerate.  I get treatment on a Wednesday and I generally hope to be well enough to "work out" from Saturday through Tuesday ... then back in for treatment again.  I'm getting no fever/chills/arm swelling.  The side effects are mostly _chemo-brain_ (fuzziness, hard to concentrate, etc).
+After getting the port, each treatment since the fourth has gotten a bit easier to tolerate.  I get treatment on a Wednesday and I generally hope to be well enough to "work out" from Saturday through Tuesday ... then back in for treatment again.  I'm getting no fever/chills/arm swelling.  The side effects are mostly _chemo-brain_ (fuzziness, hard to concentrate, etc) and exhaustion.
 
 In order to battle the _chemo-brain_ I'm making [bagels](https://www.instagram.com/p/CHyAOT5lFrh/?utm_source=ig_web_copy_link){:target="_blank"} (there, seriously, are no good bagels in Ireland), reading, writing, attempting to write code (hello there [GOLANG](https://golang.org/){:target="_blank"}) and, get this, Riley has a sudden interest in [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons){:target="_blank"}!  So we've rolled a couple of characters and are going to join a few online missions with other D&Der's.  I really never thought I'd be role playing a half-orc Fighter or teaching my daughter what a Paladin is ... and btw, [Dragonborn](https://en.wikipedia.org/wiki/Reptilian_humanoid#Games){:target="_blank"} are a pretty cool race (new to me, it was the 80's the last time I played this game)! **&lt;/geek&gt;**
 
