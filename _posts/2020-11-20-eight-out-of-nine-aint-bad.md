@@ -13,7 +13,7 @@ I don't know what the right 'update period' of time is for these, but it's been 
 
 I didn't mention it in my last update, but the first few chemotherapy infusions where a bit brutal.  I initially opted to not have a [port](https://en.wikipedia.org/wiki/Port_(medical)){:target="_blank"} inserted; my arms will never forgive me.  The [Gemcitabine](https://en.wikipedia.org/wiki/Gemcitabine){:target="_blank"} can be painful for some patients, and it most definitely was for me.  My arm would swell up and my entire body acted like I had an infection (fever/chills/etc).  I was bed-ridden for about five days after treatment, and then have maybe one good day before I went in for treatment again.  After three of these extremely exciting weeks, we decided to get the port inserted in between the first and second rounds of chemo (each round is three treatments, one a week).
 
-Holy smoke!  What a difference!
+## Holy smoke! What a difference
 
 After getting the port, each treatment since the fourth has gotten a bit easier to tolerate.  I get treatment on a Wednesday and I generally hope to be well enough to "work out" from Saturday through Tuesday ... then back in for treatment again.  I'm getting no fever/chills/arm swelling.  The side effects are mostly _chemo-brain_ (fuzziness, hard to concentrate, etc) and exhaustion.
 
@@ -25,10 +25,12 @@ So, as the title suggests, I've gotten through Eight of Nine treatments.  The gr
 
 [![Leia Hawk]({{ site.baseurl }}{% link assets/leia_hawk.png %}){:width="200px" style="float: right; margin-left: 1em;"}](https://www.instagram.com/p/CHsDAWZn0zl/?utm_source=ig_web_copy_link){:target="_blank"}
 
+## Leia (Tony) Hawk
+
 Last, but not least, I think it's incredibly important to include an update on Princess Leia's (our Frenchie) training.  Connor and Riley have been working with her in hopes that she will attend the next Doggie [X-Games](https://en.wikipedia.org/wiki/X_Games){:target="_blank"} ...  Meet Leia (Tony) Hawk; click on the pic to see her video on instagram.
+
+## Peace and Love
 
 We hope everyone is staying safe and not going stir-crazy because of COVID!
 
 Happy Thanksgiving 🦃 to those celebrating!  We'll be doing an immediate family only one here in Dublin (much like every other meal due to COVID, ugh).
-
-Peace and Love!
