@@ -24,9 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Technology and Fitness Passion
 permalink: :year/:month/:day/:title
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://karma.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.karma.net" # the base hostname & protocol for your site, e.g. http://example.com
+future: false
+show_drafts: false
 twitter_username: jcolson
-github_username:  jcolson
+github_username: jcolson
 show_downloads: false
 google_analytics:
 show_excerpts: false
