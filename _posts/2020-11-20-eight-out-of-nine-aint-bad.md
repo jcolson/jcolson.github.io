@@ -7,7 +7,7 @@ author:
 date: 'Nov 20, 2020'
 ---
 
-I don't know what the right 'update period' of time is for these, but it's been about a month since the last update and there is a bit of news, so it must be about the right period of time to send something out.  I think I'll base it on when David Williams inbounds me for a status update (this was added in at the last minute David!).
+I don't know what the right 'update period' of time is for these, but it's been about a month since the last update and there is a bit of news, so it must be about the right period of time to send something out.
 
 I didn't mention it in my last update, but the first few chemotherapy infusions where a bit brutal.  I initially opted to not have a [port](https://en.wikipedia.org/wiki/Port_(medical)){:target="_blank"} inserted; my arms will never forgive me.  The [Gemcitabine](https://en.wikipedia.org/wiki/Gemcitabine){:target="_blank"} can be painful for some patients, and it most definitely was for me.  My arm would swell up and my entire body acted like I had an infection (fever/chills/etc).  I was bed-ridden for about five days after treatment, and then have maybe one good day before I went in for treatment again.  After three of these extremely exciting weeks, we decided to get the port inserted in between the first and second rounds of chemo (each round is three treatments, one a week).
 
