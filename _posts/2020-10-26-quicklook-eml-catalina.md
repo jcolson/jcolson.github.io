@@ -5,6 +5,7 @@ title: Quicklook on Mac OSX Catalina only displays headers for EML (Electronic M
 author:
   display_name: Jay
 date: 'Oct 26, 2020'
+description: How to solve Mac OSX broken EML Quicklook
 ---
 
 I've noticed that many EML files in OSX Catalina don't preview properly via Quicklook from the Finder, but instead only shows the headers and no content.  I've found that the EML files that Outlook (Exchange) creates on the Mac don't have unix linefeeds, which causes the preview to not work properly.

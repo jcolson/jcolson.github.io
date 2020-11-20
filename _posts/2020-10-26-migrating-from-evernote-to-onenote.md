@@ -5,6 +5,7 @@ title: Migrating from Evernote to OneNote
 author:
   display_name: Jay
 date: 'Oct 26, 2020'
+description: How to migrate from Evernote to OneNote
 ---
 
 I decided to migrate from Evernote to Microsoft's OneNote.  I definitely underestimated the amount of effort that would be required in this endeavor!  Microsoft actually has an unsupported (and beta) app that will do the migration, and it ALMOST works.  Here are the tricks.

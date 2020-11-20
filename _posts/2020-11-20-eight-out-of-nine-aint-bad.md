@@ -5,6 +5,7 @@ title: Eight Out of Nine Ain't Bad
 author:
   display_name: Jay
 date: 'Nov 20, 2020'
+description: Chemotherapy update on eight of nine infusions for distal cholangiocarcinoma survivor
 ---
 
 I don't know what the right 'update period' of time is for these, but it's been about a month since the last update and there is a bit of news, so it must be about the right period of time to send something out.
