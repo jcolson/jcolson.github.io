@@ -3,7 +3,7 @@ layout: post
 categories: [blog, tech]
 title: Software Product vs Professional Services
 author: jcolson
-date: 'Oct 29, 2020'
+date: 'Nov 26, 2020'
 description: Discuss focusing a company's energy on product roadmap or professional services
 ---
 
