@@ -1,12 +1,9 @@
 ---
 layout: default
-status: publish
 published: true
 title: Software Dev
-author:
-  display_name: Jay
-date: '2018-11-29 13:54:10 +0000'
-date_gmt: '2018-11-29 18:54:10 +0000'
+author: jcolson
+date_gmt: '2020-10-29 18:54:10 +0000'
 ---
 This is some random links to opensource and "leisure time" software development stuff that I write.  Everything from Java, Android, shell scripting, Objective C, Swift, Python and PHP.
 
