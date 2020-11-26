@@ -5,7 +5,7 @@ title: Software Dev
 author: jcolson
 date_gmt: '2020-10-29 18:54:10 +0000'
 ---
-This is some random links to opensource and "leisure time" software development stuff that I write.  Everything from Java, Android, shell scripting, Objective C, Swift, Python and PHP.
+These are some random links to opensource and "leisure time" software development stuff that I write.  Everything from Java, Android, shell scripting, Objective C, Swift, Python and PHP.
 
 ## Miscellaneous Development
 
