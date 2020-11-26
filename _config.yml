@@ -18,19 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Karma.net
+title: karma.net
 email: jay@karma.net
-description: >- # this means to ignore newlines until "baseurl:"
-  Technology and Fitness Passion
+description: >- # this means to ignore newlines until "next line:"
+  it's not about retribution, vengeance, punishment or reward; karma simply deals with what is.
 permalink: :year/:month/:day/:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.karma.net" # the base hostname & protocol for your site, e.g. http://example.com
 future: false
 show_drafts: false
-twitter_username: jcolson
-github_username: jcolson
+twitter:
+  card: summary_large_image
+  username: jcolson
+facebook:
+  publisher: http://www.facebook.com/jaycolson
+  author: http://www.facebook.com/jaycolson
+logo: /assets/logo.png
+social:
+  name: Jay Colson
+  links:
+    - https://twitter.com/jcolson
+    - https://www.facebook.com/jaycolson
+    - https://www.linkedin.com/in/jcolson
+    - https://github.com/jcolson
+    - https://keybase.io/jaycolson
 show_downloads: false
-google_analytics:
+google_analytics: UA-1435466-1
 show_excerpts: false
 
 # Build settings

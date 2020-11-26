@@ -2,8 +2,7 @@
 layout: post
 categories: [blog, tech]
 title: Using git to synchronize personal data
-author:
-  display_name: Jay
+author: jcolson
 date: 'Apr 04, 2020'
 ---
 Problem statement: I don’t always work on the same computer.  I have three laptops (one linux, the others macs) and a desktop machine that I bounce between depending on if I’ll be working on the couch in the evening, at a coffee shop with my daughter, in my home office or at my work office.  I need a way to keep those machines in ‘sync’ with different configurations, such as my ssh configs, ssh keys, gnupg keys, vim config, custom shell scripts that I’ve written and use, custom Alfred workflows, etc.

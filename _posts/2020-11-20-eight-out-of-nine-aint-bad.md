@@ -2,8 +2,7 @@
 layout: post
 categories: [blog, cancer]
 title: Eight Out of Nine Ain't Bad
-author:
-  display_name: Jay
+author: jcolson
 date: 'Nov 20, 2020'
 description: Chemotherapy update on eight of nine infusions for distal cholangiocarcinoma survivor
 ---

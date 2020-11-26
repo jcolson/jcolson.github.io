@@ -2,8 +2,7 @@
 layout: post
 categories: [blog, tech]
 title: A "pretty" custom git log format that includes info on gpg and "signed-off-by"
-author:
-  display_name: Jay
+author: jcolson
 date: 'Jul 23, 2020'
 description: git configuration for displaying gpg and signed-off-by trailers in log output
 ---

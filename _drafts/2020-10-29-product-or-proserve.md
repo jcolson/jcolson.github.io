@@ -2,10 +2,9 @@
 layout: post
 categories: [blog, tech]
 title: Software Product vs Professional Services
-author:
-  display_name: Jay
+author: jcolson
 date: 'Oct 29, 2020'
-description: A discussion on focusing a company's energy on product roadmap or professional services
+description: Discuss focusing a company's energy on product roadmap or professional services
 ---
 
 Software development professional services is a very large industry today, consisting of more than $20 billion in revenue.  There is no shame in developing a business that is primarily focused on professional services over developing a software "product".  There are a lot more niche' businesses than not in the world which require custom applications and support to solve specific business challenges over an 'out of the box' product solution which tries to solve many problems through 'configuration'.  That being said, it's also very common for a company to offer **both** products and services.

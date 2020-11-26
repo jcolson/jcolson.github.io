@@ -4,16 +4,7 @@ categories: [blog, cancer]
 status: publish
 published: true
 title: An attempt at a condensed initial status update
-author:
-  display_name: Jay
-  login: admin
-  email: jay@karma.net
-  url: http://www.karma.net
-author_login: admin
-author_email: jay@karma.net
-author_url: http://www.karma.net
-wordpress_id: 503
-wordpress_url: https://www.karma.net/?p=503
+author: jcolson
 date: '2018-08-25 17:11:40 +0100'
 date_gmt: '2018-08-25 21:11:40 +0100'
 ---

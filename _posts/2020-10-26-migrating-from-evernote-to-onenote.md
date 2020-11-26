@@ -2,8 +2,7 @@
 layout: post
 categories: [blog, tech]
 title: Migrating from Evernote to OneNote
-author:
-  display_name: Jay
+author: jcolson
 date: 'Oct 26, 2020'
 description: How to migrate from Evernote to OneNote
 ---

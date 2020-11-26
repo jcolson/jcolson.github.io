@@ -2,8 +2,7 @@
 layout: post
 categories: [blog, tech]
 title: Quicklook on Mac OSX Catalina only displays headers for EML (Electronic Mail) files
-author:
-  display_name: Jay
+author: jcolson
 date: 'Oct 26, 2020'
 description: How to solve Mac OSX broken EML Quicklook
 ---
