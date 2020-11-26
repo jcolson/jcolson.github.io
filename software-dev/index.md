@@ -63,15 +63,7 @@ Checkout the video if it in action here.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4oePRnCJe_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-
-## [Jay Colson Resume](/resume "Jay Colson Résumé")
-
-[**_Technical Enthusiast, Innovator, and Strategist_**](/resume "Jay Colson Résumé")
-
-* Results-driven executive with fifteen+ years of management experience.
-* Eager to undertake complex challenges, drive evolution, and deliver superior solutions.
-* Over eighteen years of extensive applied knowledge in a plethora of software, technical methodologies, and development and implementation strategies.
-* Effective communicator with an innate passion for technology.
+{% include resume.html %}
 
 [Monkey C]: https://developer.garmin.com/connect-iq/programmers-guide/monkey-c
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)

@@ -1,10 +1,10 @@
 ---
 layout: default
+title: wtf
 ---
-<h1> {{ page.title | escape }} </h1>
 
 {{content}}
-
+<h2 id="blog-entries">Blog entries with "tag" {{ page.title | escape }}</h2>
 <ul class="post-list">
     {%- for post in site.categories[page.tag] -%}
         <li>
@@ -28,3 +28,7 @@ layout: default
         </li>
     {%- endfor -%}
 </ul>    
+
+<hr />
+
+{% include resume.html %}
