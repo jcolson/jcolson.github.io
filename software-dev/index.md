@@ -57,7 +57,9 @@ The Crossfit 353 Alexa skill enables an Alexa device to respond to questions in 
 [Alexa Skill](https://www.amazon.com/Jay-Colson-Crossfit-353-WOD/dp/B0779KZPSH/ref=sr_1_2?ie=UTF8&amp;qid=1543517395&amp;sr=8-2){:target="_blank"}
 
 Checkout the video if it in action here.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4oePRnCJe_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/4oePRnCJe_c" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+</div>
 
 ---
 {% include resume.html %}
