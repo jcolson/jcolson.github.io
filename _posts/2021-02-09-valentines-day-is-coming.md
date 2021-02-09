@@ -3,7 +3,7 @@ layout: post
 categories: [blog, cancer]
 title: Valentine's Day is Coming
 author: jcolson
-date: 'Feb 9, 2021'
+date: 'Feb 2, 2021'
 description: Chemotherapy update on fifth of second cycle of nine infusions for distal cholangiocarcinoma survivor
 ---
 
