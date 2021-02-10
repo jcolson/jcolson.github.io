@@ -3,12 +3,6 @@ tag: cancer
 permalink: "/category/cancer"
 ---
 
-<hr/>
-
-## PanCAN’s - Purple Stride
-
-[PanCAN’s](https://www.pancan.org/){:target="_blank"} PurpleStride is a year-round, national movement that funds life-changing programs and services for pancreatic cancer patients and their families. Your participation and fundraising make it all possible.  I've signed up for the Philadelphia "Virtual" event this year which takes place on [Saturday, November 07, 2020](http://support.pancan.org/goto/JayColson){:target="_blank"}.  Feel free in [joining me and/or donating here](https://secure.pancan.org/site/Donation2?idb=502748785&df_id=2340&FR_ID=2092&mfc_pref=T&PROXY_ID=2688553&PROXY_TYPE=20&2340.donation=form1){:target="_blank"}.
-
 ---
 
 ## BOINC
