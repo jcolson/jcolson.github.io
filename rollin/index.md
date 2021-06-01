@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Rollin Rollin Rollin
+title: Karma.net Important Updates
 author: jcolson
 date: '2021-06-01'
 ---
+## You wouldn't get this from any other guy!
+
 <div id="cookie-consent" class="pure-u-1">
     <div class="cookie-consent-background"></div>
     <div class="cookie-consent-content">
-        <h3 class="text-white">
+        <p class="text-white">
             Like everyone on the internet, we use cookies to improve your experience. If you're ok with that please click accept.
-        </h3>
+        </p>
         <p class="brand-tagline text-white">
             (You can still view the page if you decline, but your experience may be impacted.)
         </p>
