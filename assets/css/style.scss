@@ -1,6 +1,5 @@
 ---
 ---
-
 @import 'jekyll-theme-leap-day';
 
 .share-box a {
@@ -12,47 +11,67 @@
     margin-bottom: 5px;
     text-decoration: none;
 }
-  .share-box a:hover {
+
+.share-box a:hover {
     text-decoration: none;
     -webkit-transition: background-color 200ms linear;
     -ms-transition: background-color 200ms linear;
-    transition: background-color 200ms linear; }
-  
-  .f {
-    color: #3b5998; }
-    .f:hover {
-      color: #fff;
-      background-color: #3b5998; }
-  
-  .t {
-    color: #4099FF; }
-    .t:hover {
-      color: #fff;
-      background-color: #4099FF; }
-  
-  .g {
-    color: #d34836; }
-    .g:hover {
-      color: #fff;
-      background-color: #d34836; }
-  
-  .r {
-    color: #ff5700; }
-    .r:hover {
-      color: #fff;
-      background-color: #ff5700; }
-  
-  .l {
-    color: #0077b5; }
-    .l:hover {
-      color: #fff;
-      background-color: #0077b5; }
-  
-  .e {
-    color: #444444; }
-    .e:hover {
-      color: #fff;
-      background-color: #444444; }
+    transition: background-color 200ms linear;
+}
+
+.f {
+    color: #3b5998;
+}
+
+.f:hover {
+    color: #fff;
+    background-color: #3b5998;
+}
+
+.t {
+    color: #4099FF;
+}
+
+.t:hover {
+    color: #fff;
+    background-color: #4099FF;
+}
+
+.g {
+    color: #d34836;
+}
+
+.g:hover {
+    color: #fff;
+    background-color: #d34836;
+}
+
+.r {
+    color: #ff5700;
+}
+
+.r:hover {
+    color: #fff;
+    background-color: #ff5700;
+}
+
+.l {
+    color: #0077b5;
+}
+
+.l:hover {
+    color: #fff;
+    background-color: #0077b5;
+}
+
+.e {
+    color: #444444;
+}
+
+.e:hover {
+    color: #fff;
+    background-color: #444444;
+}
 
 .video-container {
     position: relative;
@@ -64,19 +83,19 @@
 
 .video-container iframe {
     position: absolute;
-    top:0;
+    top: 0;
     left: 0;
     width: 100%;
     height: 100%;
 }
 
 .vid-div {
-    margin:20px 0px;
+    margin: 20px 0px;
     position: relative;
 }
 
 #vid-blocker {
-    position:absolute;
+    position: absolute;
     top: 0px;
     left: 0px;
     height: 100%;
@@ -85,5 +104,63 @@
 }
 
 #video-frame {
-    width:100%;
+    width: 600px;
+    height: 400px;
+}
+
+#cookie-consent {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+}
+
+.cookie-consent-background {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    z-index: 101;
+    background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/desktopbg.png');
+    background-size: cover;
+}
+
+@media only screen and (max-width: 1050px) {
+    .cookie-consent-background {
+        background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/tabletbg.png');
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .cookie-consent-background {
+        background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/mobilebg.png');
+    }
+}
+
+.cookie-consent-content {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    z-index: 102;
+    padding: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.text-white {
+    color: white;
+}
+
+.hidden {
+    display: none;
 }
