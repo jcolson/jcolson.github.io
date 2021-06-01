@@ -62,7 +62,6 @@ Checkout the video if it in action here.
 </div>
 
 ---
-{% include resume.html %}
 
 [Monkey C]: https://developer.garmin.com/connect-iq/programmers-guide/monkey-c
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
