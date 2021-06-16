@@ -9,6 +9,10 @@ These are some random links to opensource and "leisure time" software developmen
 
 ## Miscellaneous Development
 
+### D&D Vault Bot for Discord
+
+[D&D Vault Bot](https://github.com/jcolson/dndvault-bot){:target="_blank"} - [Node.js]{:target="_blank"}  - The most complete Dungeons and Dragons Character Vault, Event Management, Polling and Dice Roller for your Discord server!
+
 ### Geoloc - microservice
 
 [Geoloc](https://github.com/jcolson/geoloc){:target="_blank"} - [Golang]{:target="_blank"} - Microservice for returning the reverse geocode information for a Point.
@@ -70,3 +74,4 @@ Checkout the video if it in action here.
 [Python]: https://www.python.org/
 [PHP]: https://www.php.net/
 [Golang]: https://golang.org/
+[Node.js]: https://nodejs.org/
