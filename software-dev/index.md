@@ -13,7 +13,7 @@ These are some random links to opensource and "leisure time" software developmen
 
 [D&D Vault Bot](https://github.com/jcolson/dndvault-bot){:target="_blank"} - [Node.js]{:target="_blank"}  - The most complete Dungeons and Dragons Character Vault, Event Management, Polling and Dice Roller for your Discord server!
 
-You can also 'vote' for the bot's usefulness [here](https://top.gg/bot/792843392664993833/vote).
+You can also 'vote' for the bot's usefulness [here](https://top.gg/bot/792843392664993833/vote){:target="_blank"}.
 
 ### Geoloc - microservice
 
