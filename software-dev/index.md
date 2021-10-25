@@ -62,7 +62,7 @@ The Crossfit 353 Garmin Watch Application displays the workout of the day (WOD) 
 The Crossfit 353 Alexa skill enables an Alexa device to respond to questions in regards to Crossfit 353's WOD.
 [Alexa Skill](https://www.amazon.com/Jay-Colson-Crossfit-353-WOD/dp/B0779KZPSH/ref=sr_1_2?ie=UTF8&amp;qid=1543517395&amp;sr=8-2){:target="_blank"}
 
-Checkout the video if it in action here.
+Checkout the video of it in action here.
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/4oePRnCJe_c" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
 </div>

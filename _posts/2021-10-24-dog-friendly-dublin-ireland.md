@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog]
+categories: [blog, dog]
 title: Dog Friendly Dublin Ireland
 author: jcolson
 date: 'Oct 24, 2021'
@@ -11,4 +11,4 @@ We've been slowly accumulating map 'pins' in google maps over the past couple of
 
 If you would like to submit new additions, please do it [here](https://forms.gle/GTEG2gXKGMA3hsFx5){:target="_blank"}, and I'll incorporate them ASAP.
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PzPXlaIKNXvRA1kPASeRColYnQBINjpw" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1PzPXlaIKNXvRA1kPASeRColYnQBINjpw" width="100%" height="480" frameborder="0" />

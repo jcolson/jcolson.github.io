@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, cancer]
+categories: [blog, cancer, dog]
 title: Eight Out of Nine Ain't Bad
 author: jcolson
 date: 'Nov 20, 2020'
