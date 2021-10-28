@@ -4,7 +4,13 @@ layout: default
 {%- assign date_format = "%b %-d, %Y" -%}
 
 <h1> {{ page.title | escape }}</h1>
-<h4>{{ page.date | date: date_format }}</h4>
+<h4>
+    {{ page.date | date: date_format }}
+    {% if page.last_modified_at %}
+        (Last updated: {{ page.last_modified_at | date: date_format }})
+    {% endif %}
+</h4>
+
 {% if post %}
 {% assign categories = post.categories %}
 {% else %}

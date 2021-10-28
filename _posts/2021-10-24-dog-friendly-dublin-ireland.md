@@ -4,6 +4,7 @@ categories: [dog, tech]
 title: Dog Friendly - Dublin, Ireland
 author: jcolson
 date: 'Oct 24, 2021'
+last_modified_at: 'Oct 28, 2021'
 description: A list of dog friendly restaurants, cafes and pubs in Dublin, Ireland
 ---
 
