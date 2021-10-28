@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, tech]
+categories: [tech]
 title: Migrating from Evernote to OneNote
 author: jcolson
 date: 'Oct 26, 2020'

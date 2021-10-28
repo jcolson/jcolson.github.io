@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, tech]
+categories: [tech]
 title: Software Product vs Professional Services
 author: jcolson
 date: 'Nov 26, 2020'

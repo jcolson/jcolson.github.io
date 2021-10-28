@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, tech]
+categories: [tech]
 title: Using git to synchronize personal data
 author: jcolson
 date: 'Apr 04, 2020'

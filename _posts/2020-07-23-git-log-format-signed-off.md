@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, tech]
+categories: [tech]
 title: A "pretty" custom git log format that includes info on gpg and "signed-off-by"
 author: jcolson
 date: 'Jul 23, 2020'

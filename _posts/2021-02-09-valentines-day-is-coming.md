@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, cancer]
+categories: [cancer]
 title: Valentine's Day is Coming
 author: jcolson
 date: 'Feb 9, 2021'

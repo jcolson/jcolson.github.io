@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, tech]
+categories: [tech]
 title: Quicklook on Mac OSX Catalina only displays headers for EML (Electronic Mail) files
 author: jcolson
 date: 'Oct 26, 2020'

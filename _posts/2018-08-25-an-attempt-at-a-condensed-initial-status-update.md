@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, cancer]
+categories: [cancer]
 status: publish
 published: true
 title: An attempt at a condensed initial status update

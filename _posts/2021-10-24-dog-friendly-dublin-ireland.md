@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, dog]
+categories: [dog, tech]
 title: Dog Friendly - Dublin, Ireland
 author: jcolson
 date: 'Oct 24, 2021'

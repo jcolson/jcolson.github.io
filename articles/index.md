@@ -19,6 +19,8 @@ date: 'Oct 28, 2021'
                   {% assign categories = page.categories %}
                 {% endif %}
                 (
+                <a href="{{site.baseurl}}/articles">articles</a>
+                /
                 {% for category in categories %}
                 <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
                 {% unless forloop.last %}&nbsp;/&nbsp;{% endunless %}

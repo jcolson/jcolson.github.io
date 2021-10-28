@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, cancer]
+categories: [cancer]
 title: Chemotherapy Schedule and CancerFit
 author: jcolson
 date: 'Apr 10, 2019 20:58:26 AM GMT+1'
