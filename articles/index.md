@@ -1,10 +1,14 @@
 ---
 layout: default
+published: true
+title: All Articles
+author: jcolson
+date: 'Oct 28, 2021'
 ---
 
-<h2 id="blog-entries">{{ page.title | escape }} Articles</h2>
+<h2 id="blog-entries">{{ page.title | escape }}</h2>
 <ul class="post-list">
-    {%- for post in site.categories[page.tag] -%}
+    {%- for post in site.posts -%}
         <li>
             {%- assign date_format = "%b %-d, %Y" -%}
             {{ post.date | date: date_format }}
@@ -27,3 +31,4 @@ layout: default
     {%- endfor -%}
 </ul>    
 <hr/>
+
