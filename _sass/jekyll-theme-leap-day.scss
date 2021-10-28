@@ -321,6 +321,19 @@ nav {
         }
       }
 
+      &.title-h1 {
+        font-size: 1.2em;
+
+        a {
+          font-weight: bold;
+          color: #4276b6;
+        }
+
+        + .tag-h2 {
+
+        }
+      }
+
       &.tag-h2 {
 
         + .tag-h1 {

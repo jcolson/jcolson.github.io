@@ -42,9 +42,9 @@
       <div id="banner">
         <a href="/"><span id="logo"></span></a>
 
-        <ul><li><a href="/category/tech" class="button">TechBlog</a></li>
-        <li><a href="/category/cancer" class="button">Fuc*Cancer</a></li>
-        <li><a href="/software-dev" class="button">Software</a></li>
+        <ul><li><a href="{{site.baseurl}}/category/tech" class="button">TechBlog</a></li>
+        <li><a href="{{site.baseurl}}/category/cancer" class="button">Fuc*Cancer</a></li>
+        <li><a href="{{site.baseurl}}/software-dev" class="button">Software</a></li>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -59,7 +59,11 @@
     <div class="wrapper">
       <nav>
           <ul>
-            <li></ul>
+            <li class='title-h1'><a href="{{site.baseurl}}/category/tech">TechBlog</a></li>
+            <li class='title-h1'><a href="{{site.baseurl}}/category/cancer">Fuc*Cancer</a></li>
+            <li class='title-h1'><a href="{{site.baseurl}}/software-dev">Software</a></li>
+            <li class='title-h1'><a href="{{site.baseurl}}/dog-friendly">Dog Friendly</a></li>
+            <br/>
         </ul>
       </nav>
       <section>
