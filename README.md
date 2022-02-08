@@ -2,7 +2,15 @@
 
 ## to run Jekyll locally
 
+gem install bundler
+
+bundle install
+
 bundle exec jekyll serve --trace --drafts
+
+### to upgrade gems
+
+bundle upgrade
 
 ## maps for dog friendly
 
