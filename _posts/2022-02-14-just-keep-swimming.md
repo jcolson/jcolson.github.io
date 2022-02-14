@@ -3,12 +3,12 @@ layout: post
 categories: [cancer]
 title: Just Keep Swimming
 author: Jay Colson
-date: 'Feb 5, 2022'
+date: 'Feb 14, 2022'
 description: Chemotherapy update ... been on the poison since September 11th, 2020
 ---
 ## Cancer Stuff
 
-It's been a long while since I sent out an update (I think my last one was almost exactly a year ago), so I figured I'd pen one and get it out to everyone.
+It's been a while since I sent out an update (my last one was a little over a year ago), so I figured I'd pen one and get it out to everyone.  A lot of things have happened, but I'll keep this very succinct.
 
 I've been on chemotherapy now, every two weeks, consistently since September 11th, 2020.  The original cocktail stopped working around August of 2021, so my Oncologist (Professor McDermott) determined that I should move to another cocktail called "Liposomal Irinotecan".  I've been on that every two weeks since.
 
@@ -25,7 +25,7 @@ I just had my 50th birthday, another year around the sun baby!  Denise planned a
 ## Family Stuff
 
 {% include image.html url="/assets/leia_in_france.png" description="Princess Leia in France" float="left" right="1em" left="0em" %}
-Denise and I have done some 'stay-cations' around Ireland, such a beautiful country.  We also took the car and drove to France (with the aid of a ferry) and down the west coast to Bordeaux; that was a fabulous trip with lots of great food and wine, as you can imagine.  Lately, we've been pretending to be food connoisseurs ... and writing food and wine reviews of Dublin restaurants!  Ha!  That's been fun.  We try to keep active with hikes and visits to parks as much as possible.
+Denise and I have done some 'stay-cations' around Ireland, it's such a beautiful country.  We also took the car and drove to France (with the aid of a ferry) and down the west coast to Bordeaux; that was a fabulous trip with lots of great food and wine, as you can imagine.  Lately, we've been pretending to be food connoisseurs ... and writing food and wine reviews of Dublin restaurants!  Ha!  That's been fun.  We try to keep active with hikes and visits to parks as much as possible.
 
 Denise is kicking ass being a coach (for me AND her); she plans our morning workouts every evening, and doesn't pull very many punches!  She is also picking up the new skill of boxing at a local boxing gym; I mean we live in Dublin, boxing is part of the culture here!  She has also been volunteering for quite a long time now as a cancer patient driver for the [Irish Cancer Society](https://www.cancer.ie/){:target="_blank"}, and all her patrons vie for her as their driver now!  
 
