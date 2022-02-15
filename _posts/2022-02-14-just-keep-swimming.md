@@ -19,10 +19,10 @@ I'm completely and utterly convinced that without my Angel (Denise, my loving wi
 
 The chemo has slowly been bringing my marker (CA-19.9) down - this is **GOOD**.  It was very high (about 3136) at the beginning of getting chemo in September of 2020, currently it's at about 560.  This, plus the scans that I get regularly indicate that the cancer is at a slow growth rate.  The pain that I'm in is very minimal considering how long I've been dealing with this.  I don't take any pain medications except for the occasional paracetamol (acetaminophen or otherwise known as Tylenol) or ibuprofen.
 
+## Family Stuff
+
 {% include image.html url="/assets/50th_birthday.png" description="Half a Century!" float="right" right="0em" left="1em" %}
 I just had my 50th birthday, another year around the sun baby!  Denise planned an epic weekend (week maybe??) of celebrations, meals, drinks and camaraderie.  It was really special; I even ['sabered'](https://en.wikipedia.org/wiki/Sabrage){:target="_blank"} a champagne bottle!
-
-## Family Stuff
 
 {% include image.html url="/assets/leia_in_france.png" description="Princess Leia in France" float="left" right="1em" left="0em" %}
 Denise and I have done some 'stay-cations' around Ireland, it's such a beautiful country.  We also took the car and drove to France (with the aid of a ferry) and down the west coast to Bordeaux; that was a fabulous trip with lots of great food and wine, as you can imagine.  Lately, we've been pretending to be food connoisseurs ... and writing food and wine reviews of Dublin restaurants!  Ha!  That's been fun.  We try to keep active with hikes and visits to parks as much as possible.
