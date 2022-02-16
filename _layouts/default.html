@@ -26,6 +26,7 @@
     <link rel="icon" sizes="192x192" href="/apple-touch-icon-192x192.png">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/countdown.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
@@ -36,12 +37,12 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <p><div id="countdown"></div></p>
 <!--        <a href="https://discord.gg/vbMqtRvhaK" target="_blank"><img src="/assets/Chat-With-Me-cancer-purple.svg"/></a>-->
       </header>
 
       <div id="banner">
         <a href="/"><span id="logo"></span></a>
-
         <ul>
             <li><a href="{{site.baseurl}}/dog-friendly" class="button">Dog Friendly</a></li>
             <li><a href="{{site.baseurl}}/software-dev" class="button">Software</a></li>

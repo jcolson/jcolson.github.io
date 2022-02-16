@@ -163,3 +163,38 @@
 img + em { 
     float: left
 }
+
+#countdown {
+    font-size: 1em;
+    font-weight: 100;
+    // padding: 20px;
+    // width: 700px;
+    // color: white;
+    color: black;
+    // margin: 0 right;
+}
+
+#countdown div {
+    text-align: center;
+    // padding: 100px 60px;
+    // background: #90cbf3;
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: inline-block;
+    // min-width: 90px;
+    padding: 1px;
+    // background: #020b43;
+    // background: url(../images/body-background.png) #eae6d1;
+    background: #ffcc00;
+    border-radius: 10px;
+    border: 0px solid #030d52;
+    margin: 0px;
+}
+
+#countdown div span {
+    color: black;
+    // display: block;
+    margin-top: 0px;
+    font-size: .40em;
+    font-weight: 400;
+}
