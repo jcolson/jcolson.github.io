@@ -33,16 +33,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
   <body>
-
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <a href="/"><span id="logo"></span></a>
+        <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
         <p><div id="countdown"></div></p>
 <!--        <a href="https://discord.gg/vbMqtRvhaK" target="_blank"><img src="/assets/Chat-With-Me-cancer-purple.svg"/></a>-->
       </header>
-
       <div id="banner">
-        <a href="/"><span id="logo"></span></a>
+        <!-- <a href="/"><span id="logo"></span></a> -->
         <ul>
             <li><a href="{{site.baseurl}}/dog-friendly" class="button">Dog Friendly</a></li>
             <li><a href="{{site.baseurl}}/software-dev" class="button">Software</a></li>
