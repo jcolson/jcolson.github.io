@@ -9,8 +9,10 @@ description: A list of dog friendly restaurants, cafes and pubs in Dublin, Irela
 ---
 
 On March 14th, we added:
-The Wine Pair
-Idlewild Bar
+
+- The Wine Pair
+- Idlewild Bar
+
 BOTH allow your pooch inside!
 
 We've been slowly accumulating map 'pins' in google maps over the past couple of years and I decided that it would be a good thing to share with the larger Dublin community.  Feel free to 'copy and modify' as you will.
